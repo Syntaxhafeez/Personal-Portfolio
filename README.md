@@ -107,4 +107,4 @@ Models and Assets used in the project can be found [here](https://drive.google.c
 
 - 📸 [Follow me on Instagram](https://instagram.com/syntaxhafeez)
 - 💼 [Connect with me on LinkedIn](https://linkedin.com/in/mohd-hafeez)
-- 🧑‍💻 [Visit my Portfolio](https://yourportfolio.com)
+- 🧑‍💻 [Visit my Portfolio](https://portfolio-rho-two-99.vercel.app/)
